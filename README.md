@@ -40,6 +40,7 @@ npx tsc index.ts
 ```
 
 To use the detectDog query, provide an image URL as follows:
+Feel free to test using postman
 
 ```bash
 {
