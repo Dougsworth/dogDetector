@@ -4,13 +4,6 @@ This API is a novel dog detection tool, powered by Node.js, Express, Apollo Serv
 
 ## Getting Started 🚀
 
-### Prerequisites 📋
-
-You need to have the following software installed on your machine:
-
-- Node.js
-- npm (Node Package Manager)
-
 ### Installation ⚙️
 
 Follow the steps below to get the API up and running on your local machine:
