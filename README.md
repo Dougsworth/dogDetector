@@ -25,11 +25,12 @@ Follow the steps below to get the API up and running on your local machine:
     ```
 
 ## Usage 🛠️
-
+ sudo npm install -g ts-node  
 To start the server, use the following command:
 
 ```bash
-npx tsc index.ts 
+ts-node index.ts                
+
 ```
 
 To use the detectDog query, provide an image URL as follows:
